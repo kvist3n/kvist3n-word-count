@@ -19,6 +19,7 @@ Here is the file tree structure for word count
 	│   ├── exercises.rst
 	│   ├── index.rst
 	│   ├── purpose.rst
+	│   ├── tree_structure.rst
 	│   └── usage.rst
 	├── Dockerfile
 	├── license.md
