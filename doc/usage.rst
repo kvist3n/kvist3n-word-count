@@ -7,7 +7,11 @@ Usage
 How to clone the code
 ---------------------
 
-Write me ...
+You can clone the code by doing:
+
+::
+
+  $ git clone https://github.com/coderefinery/word-count.git
 
 
 Make
