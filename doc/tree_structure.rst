@@ -36,3 +36,5 @@ Here is the file tree structure for word count
 	    ├── plotcount.py
 	    ├── wordcount.py
 	    └── zipf_test.py
+
+Keep this file structure!
