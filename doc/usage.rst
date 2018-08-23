@@ -47,8 +47,15 @@ and run it with
 Where to find the results
 -------------------------
 
+Plots will be written into the result directory.
+
+.. image:: pics/abyss.png
+   :width: 200px
+   :height: 200px
+
 After you ran the code, you find the results in "results/results.txt".
 Example output:
+
 ::
 
   Book		First	Second	Ratio
