@@ -29,4 +29,8 @@ Write me ...
 Where to find the results
 -------------------------
 
-Write me ...
+Plots will be written into the result directory.
+
+.. image:: pics/abyss.png
+   :width: 200px
+   :height: 200px
