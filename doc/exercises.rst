@@ -1,7 +1,6 @@
 
-
-Exercises(documentation lesson)
-== == == == == == == == == == == == == == == ==
+Exercises (documentation lesson)
+================================
 
 Before you start
 ----------------
@@ -39,7 +38,7 @@ Basic
 Advanced
 --------
 
-- Add a test and document how to run it.
+- Add a test anddocument how to run it.
 - Add the possibility to auto-document Python code.
 
 
