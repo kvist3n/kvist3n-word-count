@@ -48,5 +48,5 @@ Meta
 - Add new exercises ideas for future workshops(edit this file).
 
 Kvist3n
-------
+-------
 -Tried to add something here
